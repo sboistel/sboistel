@@ -2,7 +2,7 @@
   <img src = "https://0.gravatar.com/avatar/c570390b03d666a47c7d002942552823246a5b042625a4b7d37798ee0985fef2?size=128">
 </div>
 
-## Hi, I'm Sam<img width="30" src="resources/waving.gif">
+## Hi, I'm Sam <img width="30" src="resources/waving.gif">
 
 Passionate about the Open Source world and more particularly the Linux world.
 I like discovering new things; sharpening my curiosity trough collegues.
